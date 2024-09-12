@@ -1,7 +1,7 @@
 baseURL: https://redplover.github.io/TheInators/
 languageCode: en-us
 title: TheInators
-theme: ['PapermMod']
+theme: ['PaperMod']
 
 paginate: 5
 
