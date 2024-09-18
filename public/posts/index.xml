@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 12 Sep 2024 11:03:20 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/TheInators/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post Honzik</title>
-      <link>http://localhost:1313/TheInators/posts/my-first-post-honzik/</link>
+      <title>Honzik&#39;s First Post</title>
+      <link>http://localhost:1313/TheInators/posts/honziks-first-post/</link>
       <pubDate>Thu, 12 Sep 2024 11:03:20 -0400</pubDate>
-      <guid>http://localhost:1313/TheInators/posts/my-first-post-honzik/</guid>
+      <guid>http://localhost:1313/TheInators/posts/honziks-first-post/</guid>
       <description>&lt;h2 id=&#34;hey-charlie&#34;&gt;Hey Charlie&lt;/h2&gt;
 &lt;p&gt;This is our page&amp;rsquo;s &lt;strong&gt;first post!&lt;/strong&gt; Wow, what an adventure. We&amp;rsquo;re currently using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme to run this &lt;em&gt;static&lt;/em&gt; site. LMK if you want to migrate to something else though.&lt;/p&gt;
 &lt;h3 id=&#34;code-snippet&#34;&gt;Code Snippet&lt;/h3&gt;
@@ -27,7 +27,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;state&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ScoringState&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;IDLE&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;canadas-finest&#34;&gt;Canada&amp;rsquo;s Finest&lt;/h3&gt;
+&lt;p&gt;Here&amp;rsquo;s a picture of some Canadian geese. They love to take up sidewalk space and yell at freshmen. Their favorite times to be out are in between class change.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
