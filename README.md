@@ -1,5 +1,5 @@
 # TheInators
-hello bud
+Hi there! 👋 This is a blog by two college students where we write about our projects and things we find interesting. We hope you find them interesting too. 🚀
 
 ### How to create a new post
 ```
